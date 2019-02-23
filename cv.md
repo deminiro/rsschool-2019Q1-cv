@@ -6,3 +6,4 @@
 6. Experience: in progress
 7. Education: course Rolling Scopes School.
 8. Skill of english: B1. Practice: tests and online communicating.
+ 
