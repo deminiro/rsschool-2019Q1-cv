@@ -1,4 +1,4 @@
-1. Name: Denis Surname: Mironov <br>
+1. Name: Denis, Surname: Mironov <br>
 2. Contact: vk.com/denismironoff<br>
 3. Aim to work: I wanna work in your company. I want to use my knowledge in front-end developing for perform assigned tasks. Also I'm ready to improve my skill in developing. <br>
 4. Skill: learn JavaScript<br>
